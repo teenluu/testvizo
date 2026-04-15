@@ -4,3 +4,4 @@ Add introduction explaining Vizo project overview and airdrop goals
 Create step-by-step guide for joining the Vizo airdrop campaign
 Document wallet setup and eligibility requirements for participants
 Add section describing task completion workflow and checkpoints
+nclude notes about social tasks and community engagement activities
